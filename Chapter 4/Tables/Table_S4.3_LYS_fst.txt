@@ -1,0 +1,22 @@
+                      North_Vancouver_Grade North_Interior South_Cascades North_BC_Mainland Puget_Vancouver_Grade      SW_BC CA_and_Coast South_Interior
+North_Vancouver_Grade                    NA             NA             NA                NA                    NA         NA           NA             NA
+North_Interior                  0.351357862             NA             NA                NA                    NA         NA           NA             NA
+South_Cascades                  0.591503666      0.6998684             NA                NA                    NA         NA           NA             NA
+North_BC_Mainland               0.200854625      0.3027079      0.6464889                NA                    NA         NA           NA             NA
+Puget_Vancouver_Grade           0.002024936      0.2341276      0.4186297         0.1192545                    NA         NA           NA             NA
+SW_BC                           0.131123919      0.4762899      0.5988863         0.3085849           -0.01219134         NA           NA             NA
+CA_and_Coast                    0.091184031      0.4403795      0.4525346         0.2569816            0.03166361 0.07239177           NA             NA
+South_Interior                  0.411473301      0.5642347      0.6808499         0.5035131            0.14188882 0.44474690    0.4201073             NA
+Cascade                         0.215441636      0.4574480      0.4460962         0.3224797            0.05773493 0.14923365    0.0798435      0.4342620
+Haida_AK                        0.340909296      0.4912266      0.7396355         0.4558187            0.23308424 0.44727480    0.4953301      0.5733694
+                        Cascade Haida_AK
+North_Vancouver_Grade        NA       NA
+North_Interior               NA       NA
+South_Cascades               NA       NA
+North_BC_Mainland            NA       NA
+Puget_Vancouver_Grade        NA       NA
+SW_BC                        NA       NA
+CA_and_Coast                 NA       NA
+South_Interior               NA       NA
+Cascade                      NA       NA
+Haida_AK              0.4972181       NA

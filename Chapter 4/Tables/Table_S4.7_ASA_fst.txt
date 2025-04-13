@@ -1,0 +1,6 @@
+                North_Coast South_Interior Cascade_Grade North_Interior CA_and_SW_OR
+North_Coast              NA             NA            NA             NA           NA
+South_Interior 0.0036065924             NA            NA             NA           NA
+Cascade_Grade  0.0002735549    0.044342229            NA             NA           NA
+North_Interior 0.0367434898   -0.001138068   0.037223258             NA           NA
+CA_and_SW_OR   0.0820907067    0.075578446  -0.004830808     0.07385058           NA

@@ -1,0 +1,24 @@
+                        Vancouver_ogs North_Cluster Continental_Alaska
+Vancouver_ogs                      NA            NA                 NA
+North_Cluster              0.08821558            NA                 NA
+Continental_Alaska         0.16395346    0.05807704                 NA
+WA_OR_BC                  -0.02133758    0.06229169         0.09995111
+Central_Cascades           0.05128745    0.40176342         0.25669561
+North_Fork_Clearwater      0.16776356    0.22804854         0.26130371
+Porphory_Is_Lk_Superior    0.47240315    0.19520745         0.45685311
+                          WA_OR_BC Central_Cascades North_Fork_Clearwater
+Vancouver_ogs                   NA               NA                    NA
+North_Cluster                   NA               NA                    NA
+Continental_Alaska              NA               NA                    NA
+WA_OR_BC                        NA               NA                    NA
+Central_Cascades        0.10181993               NA                    NA
+North_Fork_Clearwater   0.07727939        0.1929825                    NA
+Porphory_Is_Lk_Superior 0.19968072        0.3841433             0.4690647
+                        Porphory_Is_Lk_Superior
+Vancouver_ogs                                NA
+North_Cluster                                NA
+Continental_Alaska                           NA
+WA_OR_BC                                     NA
+Central_Cascades                             NA
+North_Fork_Clearwater                        NA
+Porphory_Is_Lk_Superior                      NA
